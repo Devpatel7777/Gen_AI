@@ -7,16 +7,16 @@
 
 
 **Generated Explanation**
-![Explanation](<img width="1900" height="907" alt="SS2" src="https://github.com/user-attachments/assets/5df7a777-7976-4f08-b2b9-260760b0ff89" />
-)
+![Explanation]<img width="1900" height="907" alt="SS2" src="https://github.com/user-attachments/assets/5df7a777-7976-4f08-b2b9-260760b0ff89" />
+
 
 **Real-Life Example and MCQs**
-![MCQs](<img width="1902" height="900" alt="SS3" src="https://github.com/user-attachments/assets/bfbb0105-c30c-4617-b6f9-8667ecefda9c" />
-)
+![MCQs]<img width="1902" height="900" alt="SS3" src="https://github.com/user-attachments/assets/bfbb0105-c30c-4617-b6f9-8667ecefda9c" />
+
 
 **Interview Questions and Summary**
-![Interview Questions and Summary](<img width="1892" height="907" alt="SS4" src="https://github.com/user-attachments/assets/6ccb9f12-c1b8-45b7-96bc-8258574d387a" />
-)
+![Interview Questions and Summary]<img width="1892" height="907" alt="SS4" src="https://github.com/user-attachments/assets/6ccb9f12-c1b8-45b7-96bc-8258574d387a" />
+
 
 ## Project Overview
 
