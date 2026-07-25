@@ -193,8 +193,3 @@ This repository is intended for educational, learning, and portfolio purposes.
 
 ## Dev Patel
 
-**Data Analyst | Generative AI Engineer | AI/ML Enthusiast**
-
-- 💻 GitHub: https://github.com/Devpatel7777
-- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
