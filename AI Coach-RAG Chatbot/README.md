@@ -3,7 +3,9 @@
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="Images/home.png" width="900">
+  <img width="1911" height="922" alt="Screenshot 2026-07-25 180706" src="https://github.com/user-attachments/assets/c7b862e2-f7e3-4d81-8b19-164e3b68bf2e" />
+  <img width="1482" height="717" alt="Screenshot 2026-07-25 180742" src="https://github.com/user-attachments/assets/57145077-0f47-4717-95c0-48b87d0013d5" />
+
 </p>
 
 ---
@@ -375,11 +377,3 @@ This project is developed for educational, learning, and portfolio purposes.
 # 👨‍💻 Author
 
 **Dev Patel**
-
-**Data Analyst | Generative AI Engineer | AI/ML Enthusiast**
-
-📧 Email: your_email@example.com
-
-🔗 LinkedIn: https://linkedin.com/in/your-linkedin
-
-💻 GitHub: https://github.com/your-github
