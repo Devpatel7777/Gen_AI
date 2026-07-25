@@ -3,8 +3,8 @@
 ## Application Preview
 
 **Home Page - Topic Input and Study Kit Overview**
-![Home Page](<img width="1903" height="907" alt="SS1" src="https://github.com/user-attachments/assets/e45e7794-42d6-47f6-a9cc-c5bf9fdce62d" />
-)
+![Home Page]<img width="1903" height="907" alt="SS1" src="https://github.com/user-attachments/assets/e45e7794-42d6-47f6-a9cc-c5bf9fdce62d" />
+
 
 **Generated Explanation**
 ![Explanation](<img width="1900" height="907" alt="SS2" src="https://github.com/user-attachments/assets/5df7a777-7976-4f08-b2b9-260760b0ff89" />
