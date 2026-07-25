@@ -3,19 +3,19 @@
 ## Application Preview
 
 **Home Page - Topic Input and Study Kit Overview**
-![Home Page]<img width="1903" height="907" alt="SS1" src="https://github.com/user-attachments/assets/e45e7794-42d6-47f6-a9cc-c5bf9fdce62d" />
+<img width="1903" height="907" alt="SS1" src="https://github.com/user-attachments/assets/e45e7794-42d6-47f6-a9cc-c5bf9fdce62d" />
 
 
 **Generated Explanation**
-![Explanation]<img width="1900" height="907" alt="SS2" src="https://github.com/user-attachments/assets/5df7a777-7976-4f08-b2b9-260760b0ff89" />
+<img width="1900" height="907" alt="SS2" src="https://github.com/user-attachments/assets/5df7a777-7976-4f08-b2b9-260760b0ff89" />
 
 
 **Real-Life Example and MCQs**
-![MCQs]<img width="1902" height="900" alt="SS3" src="https://github.com/user-attachments/assets/bfbb0105-c30c-4617-b6f9-8667ecefda9c" />
+<img width="1902" height="900" alt="SS3" src="https://github.com/user-attachments/assets/bfbb0105-c30c-4617-b6f9-8667ecefda9c" />
 
 
 **Interview Questions and Summary**
-![Interview Questions and Summary]<img width="1892" height="907" alt="SS4" src="https://github.com/user-attachments/assets/6ccb9f12-c1b8-45b7-96bc-8258574d387a" />
+<img width="1892" height="907" alt="SS4" src="https://github.com/user-attachments/assets/6ccb9f12-c1b8-45b7-96bc-8258574d387a" />
 
 
 ## Project Overview
